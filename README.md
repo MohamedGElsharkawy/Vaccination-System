@@ -9,8 +9,7 @@ This project can be installed in any vaccination center. It mainly contains impo
 - Allow client to reserve an appointment
 - Generate invoices
 - Client can search for specific time slot
-- System should send notification email asking the client to evaluate the
-  service offered to him/her
+
   
 ## Vaccinations store management:
 
